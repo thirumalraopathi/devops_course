@@ -1,0 +1,1 @@
+this is for creating 3.txt file 
